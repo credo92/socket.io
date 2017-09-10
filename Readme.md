@@ -2,7 +2,8 @@
 
 https://socket-room.herokuapp.com/
 
-Chat Room application built with socket.io 
+Chat Room application built with socket.io
 
-nodejs + socket.io + heroku 
+nodejs + socket.io + heroku
 
+![Screenshot software]( "screenshot software") 
