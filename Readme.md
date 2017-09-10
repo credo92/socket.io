@@ -6,4 +6,4 @@ Chat Room application built with socket.io
 
 nodejs + socket.io + heroku
 
-![Screenshot software]( "screenshot software") 
+![Screenshot software](https://github.com/credo92/socket.io/blob/master/socket.png "screenshot software") 
